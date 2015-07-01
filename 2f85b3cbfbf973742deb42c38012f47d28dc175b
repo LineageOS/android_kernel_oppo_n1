@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7ffa3b31_de3c45c1",
+        "filename": "arch/arm/configs/cyanogenmod_x909_defconfig",
+        "patchSetId": 4
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-07-01T21:34:41Z",
+      "side": 1,
+      "message": "# CONFIG_KERNEL_GZIP is not set\nCONFIG_KERNEL_LZMA\u003dy",
+      "range": {
+        "startLine": 53,
+        "startChar": 0,
+        "endLine": 54,
+        "endChar": 31
+      },
+      "revId": "2f85b3cbfbf973742deb42c38012f47d28dc175b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
